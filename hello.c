@@ -6,7 +6,7 @@ main()
 {
     printf("You had me at Hello World!");
     
-    printf("/n Ayyyyyyy /n");
+    printf("\n Ayyyyyyy \n");
 
 
 }
